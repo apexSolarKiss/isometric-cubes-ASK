@@ -77,4 +77,4 @@ pip install --pre py5
 
 Copyright (c) 2025 Andrew S Klug // ASK
 
-Licensed under the Apache License 2.0. See [`LICENSE`](LICENSE).
+Licensed under the Apache License 2.0. See [`LICENSE`](LICENSE)
