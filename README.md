@@ -75,4 +75,6 @@ pip install --pre py5
 
 ## license
 
-Apache 2.0 >> see the header in each `.py` file for details
+Copyright (c) 2025 Andrew S Klug // ASK
+
+Licensed under the Apache License 2.0. See [`LICENSE`](LICENSE).
