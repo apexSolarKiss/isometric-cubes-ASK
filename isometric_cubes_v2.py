@@ -2,13 +2,13 @@
 # mouse centered // randomly spawns grid-aligned isometric cubes in a muted purple ASK color palette
 # cubes spawn in a radius centered around mouse cursor
 # ////////////////////////////////////////////////////////////////
-# Copyright (c) 2025 >> Andrew S Klug // ASK
+# Copyright 2025 Andrew S Klug // ASK
 # ////////////////////////////////////////////////////////////////
 # Licensed under the Apache License, Version 2.0 (the "License"); this file may not be used except in compliance with the License, a copy of which is available at http://www.apache.org/licenses/LICENSE-2.0
 # ////////////////////////////////////////////////////////////////
 # Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 # ////////////////////////////////////////////////////////////////
-# refactored/adapted from p5.js >> https://editor.p5js.org/gradientsASK/full/bWa1wvK3r
+# refactored/adapted from p5.js >> https://editor.p5js.org/asymptoticSystemKey/sketches/B1fxc_4K2
 # ////////////////////////////////////////////////////////////////
 
 # ////////////////////////////////////////////////////////////////
