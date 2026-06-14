@@ -22,7 +22,10 @@ To live wisely in such a world is not to impose order, but to let order emerge f
 
 generative art sketches written in python/py5 >> randomly spawns grid-aligned isometric cubes in a muted purple ASK color palette
 
-refactored/adapted from ASK's original p5.js >> [https://editor.p5js.org/asymptoticSystemKey/full/bWa1wvK3r](https://editor.p5js.org/asymptoticSystemKey/full/bWa1wvK3r)
+refactored/adapted from ASK's original 2022 p5.js sketches, preserved in `provenance/p5js-original/` >>
+
+- full random >> [https://editor.p5js.org/asymptoticSystemKey/sketches/bWa1wvK3r](https://editor.p5js.org/asymptoticSystemKey/sketches/bWa1wvK3r)
+- interactive radius >> [https://editor.p5js.org/asymptoticSystemKey/sketches/B1fxc_4K2](https://editor.p5js.org/asymptoticSystemKey/sketches/B1fxc_4K2)
 
 | version | behavior                                                                                  |
 |:--------|:------------------------------------------------------------------------------------------|
@@ -75,6 +78,6 @@ pip install --pre py5
 
 ## license
 
-Copyright 2025 Andrew S Klug // ASK
+Copyright 2022-2025 Andrew S Klug // ASK
 
 Licensed under the Apache License 2.0 // see [`LICENSE`](LICENSE)
