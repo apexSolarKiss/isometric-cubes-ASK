@@ -75,6 +75,6 @@ pip install --pre py5
 
 ## license
 
-Copyright 2026 Andrew S Klug // ASK
+Copyright 2025 Andrew S Klug // ASK
 
 Licensed under the Apache License 2.0 // see [`LICENSE`](LICENSE)
